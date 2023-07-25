@@ -1,5 +1,3 @@
-- 👋 Hi,I’m Imane El yaagoubi.
+- 👋 Hi,I’m IMANE EL YAAGOUBI.
 - 👀 I’m interested in Information Technology.
-- 🌱 I’m currently learning CSS.
-- 💞️ I’m looking to be a Web Developer.
 - 📫 elyaagoubiimane03@gmail.com.
